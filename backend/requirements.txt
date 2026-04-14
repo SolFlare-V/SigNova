@@ -1,0 +1,22 @@
+# SignLang AI - Backend Dependencies
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt==4.0.1
+python-multipart
+opencv-python-headless
+mediapipe
+scikit-learn
+numpy
+deep-translator
+email-validator
+google-auth
+google-auth-httplib2
+requests
+imbalanced-learn
+Pillow
+hypothesis
