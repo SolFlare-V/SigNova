@@ -31,9 +31,10 @@ backend/ml/models/gesture_model.pkl.prev
 backend/ml/models/labels.pkl.bak
 backend/ml/data/features.npy
 backend/ml/data/labels.npy
-
+Archive
 # Temp/debug scripts
 backend/retrain_model.py
+backend/landmarks
 backend/train_from_landmarks.py
 backend/collect_landmarks.py
 backend/debug_preprocessed.jpg
